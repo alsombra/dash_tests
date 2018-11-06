@@ -61,6 +61,6 @@
 
 h5 {
    font-size: 30px;
-   color: hotpink;
+   color: hotpink !important;
 }
 
