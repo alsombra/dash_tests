@@ -21,7 +21,7 @@ et-xmlfile==1.0.1
 finsymbols==1.2.0
 Flask==0.12.2
 Flask-Compress==1.4.0
-Flask-Cors==3.0.6
+Flask-Cors==3.0.9
 Flask-SeaSurf==0.2.2
 graphviz==0.9
 gunicorn==19.7.1
