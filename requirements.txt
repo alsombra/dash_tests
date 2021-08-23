@@ -37,7 +37,7 @@ Jinja2==2.9.6
 jsonschema==2.6.0
 jupyter-client==5.2.3
 jupyter-core==4.4.0
-jupyterlab==0.32.1
+jupyterlab==1.2.21
 jupyterlab-launcher==0.10.5
 jupytext==0.6.3
 kiwisolver==1.0.1
